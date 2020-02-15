@@ -1,0 +1,3 @@
+Plants Monitor - Soil Moisture Sensor with Arduino Uno (Embedded System Project)
+
+YouTube Link: https://www.youtube.com/watch?v=hYTVoUxPPQA&t=35s
